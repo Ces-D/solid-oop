@@ -1,0 +1,15 @@
+.env
+.vscode 
+
+## Node
+logs
+*.log
+npm-debug.log*
+node_modules/
+package-lock.json
+
+dist
+
+## Csharp 
+*obj
+*bin
